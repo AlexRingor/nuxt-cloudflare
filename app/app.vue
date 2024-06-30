@@ -1,6 +1,6 @@
 <template>
   <div>
     <NuxtRouteAnnouncer />
-    <NuxtWelcome />
+    <UButton>Hello Nuxt!</UButton>
   </div>
 </template>
